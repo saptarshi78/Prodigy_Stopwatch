@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stop Watch⏰</string>
+    <string name="start_button">Start</string>
+    <string name="pause_button">Pause</string>
+    <string name="reset_button">Reset</string>
+</resources>
